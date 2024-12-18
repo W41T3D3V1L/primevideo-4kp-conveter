@@ -1,6 +1,6 @@
 ## Amazon Prime Video  4kp
 
-A Chrome Extension that forces 1080p resolution for videos on Amazon Prime Video to be applied
+A Chrome Extension that forces 4Kp resolution for videos on Amazon Prime Video to be applied
 
 ![www primevideo com_detail_0OWQ2R7YND059JQZALS8YKCH91_ref=atv_plr_landingpage_play](https://github.com/user-attachments/assets/c74163a2-ff83-4da8-8c9c-43cb03b7d8cf)
 
